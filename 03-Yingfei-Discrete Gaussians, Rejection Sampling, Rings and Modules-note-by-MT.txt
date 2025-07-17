@@ -1,3 +1,6 @@
+Author：MT
+https://github.com/mountaintower/learningzkp
+
 p1
 无穷范数
 ρ(x)是高斯概率密度即高斯函数

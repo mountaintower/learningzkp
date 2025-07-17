@@ -1,3 +1,6 @@
+Author：MT
+https://github.com/mountaintower/learningzkp
+
 主题：Ajtai承诺和承诺打开的证明
 内容：
 承诺： 1）SIS，2）Chor-Rivest 哈希，3）Ajtai承诺的binding& hiding

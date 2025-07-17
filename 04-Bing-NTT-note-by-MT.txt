@@ -1,3 +1,6 @@
+Author：MT
+https://github.com/mountaintower/learningzkp
+
 01 NTT数论变换
 
 02 不止butterfly
